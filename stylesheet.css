@@ -1,0 +1,60 @@
+  .contact-form {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    background-color: #71767a;
+    font-family: Segoe UI;
+  }
+
+.section-title {
+    border-bottom: 2px solid #ffffff;
+    color: #ffffff;
+    font-size: 25px;
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+    font-family: Segoe UI;
+  }
+
+  input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #000;
+    font-family: Segoe UI;
+  }
+
+.contact-submit {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Segoe UI;
+  cursor: pointer;
+}
+
+.footer {
+    background-color: #084b92;
+    color: #ffffff;
+    height: 60px;
+    padding: 15px;
+    font-family: Segoe UI;
+  }
+
+.footer-logo {
+    float: left;
+    font-size: 15px;
+    padding-top: 7px;
+    font-family: Segoe UI;
+  }
+
+.footer-list a {
+    float: right;
+    padding: 20px 20px;
+    color: rgb(255, 255, 255);
+    font-family: Segoe UI;
+  }
+
+  .footer-list a:hover {
+    color: #000000;
+  }
