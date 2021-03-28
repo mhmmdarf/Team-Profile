@@ -1,0 +1,79 @@
+html, body, h1, h2{
+    margin: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+header{
+    height: 70px;
+    background-color: #0c3866;
+    color: white;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 7px#0000000c;
+}
+
+.header-logo{
+    float: left;
+    font-size: 30px;
+    margin: 15px 20px;
+}
+
+.header-menu{
+    float: right;
+    margin: 30px;
+}
+
+.header-menu a{
+    padding: 20px;
+}
+
+.banner{
+    height: 500px;
+    width: 1200px;
+    margin: 100px 400px;
+    border-bottom: 2px solid #0c3866;
+    text-align: center;
+}
+
+.banner-img{
+    /* width: 60%; */
+}
+
+.banner-img img{
+    display: inline-block;
+    float: left;
+    width: 60%;
+}
+
+.banner-text{
+    width: 40%;
+    margin-top: 230px;
+    float: right;
+    color: #0c3866;
+}
+
+.banner-title{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.banner-desc p{
+    font-weight: lighter;
+    font-size: 30px;
+    margin: 0;
+}
