@@ -59,6 +59,21 @@ header{
     text-align: center;
 }
 
+/* Added by Refsi */
+
+banner {
+  background-color: #fff;
+  animation-name: efek-banner;
+  animation-duration: 4s;
+}
+
+@keyframes efek-banner {
+  from {background-color: #9fb4c9;}
+  to {background-color: #0C3866;}
+}
+
+/* --- */
+
 .banner-img{
     /* width: 60%; */
 }
