@@ -42,6 +42,13 @@ header{
     padding: 20px;
 }
 
+/* Added by Refsi */
+
+.header-menu a:hover {
+    background-color: #fff;   
+}
+/* --- */
+
 .banner{
     height: 500px;
     width: 1200px;
