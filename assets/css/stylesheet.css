@@ -47,7 +47,7 @@ header{
 .header-menu a:hover {
     background-color: #fff;
     color: #0C3866;
-    transition-delay: 1s;
+    transition: ease 1s;
 }
 /* --- */
 
